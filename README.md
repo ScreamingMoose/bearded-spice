@@ -1,2 +1,2 @@
-bearded-spice.github.io
+bearded-spice
 =======================
